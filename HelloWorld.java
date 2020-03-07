@@ -11,6 +11,8 @@ class HelloWorld
 		System.out.println("Nagarjuna, World"); 
 		System.out.println("Nagarjuna, KANDULA"); 
 		System.out.println("DevOps, World"); 
+		System.out.println("NAGARJUNA, KANDULA"); 
+		System.out.println("DEVOPS, KANDULA"); 
 	} 
 } 
 
